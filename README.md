@@ -32,9 +32,8 @@
 
 ## 🌐 Conecta conmigo
 
-📧 **Email:** [guillermo.dev@example.com](mailto:guillermo.dev@example.com)  
-💼 **LinkedIn:** [linkedin.com/in/guillermo](https://linkedin.com/in/guillermo) *(sustituye este enlace por el tuyo real)*  
-🌍 **GitHub:** [github.com/Guillermo](https://github.com/Guillermo) *(sustituye este enlace por el tuyo real)*  
+📧 **Email:** [guillemsilgadod@gmail.com](mailto:guilemsilgadod@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/guillermo](https://www.linkedin.com/in/guillermo-mart%C3%ADn-silgado-63aa67329/) 
 
 ---
 
