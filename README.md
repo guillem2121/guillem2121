@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Guillermo 🚀
+# 👋 ¡Hola! Soy Guillermo 🦇
 
 🎓 **Estudiante de 2º de Desarrollo de Aplicaciones Multiplataforma (DAM)**  
 💻 Apasionado por la **tecnología**, el **desarrollo de software** y la **ciberseguridad**.  
