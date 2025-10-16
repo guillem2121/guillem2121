@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Guillermo 🚀
 
 🎓 **Estudiante de 2º de Desarrollo de Aplicaciones Multiplataforma (DAM)**  
-💻 Apasionado por la **tecnología**, el **desarrollo de software** y la **innovación**.  
+💻 Apasionado por la **tecnología**, el **desarrollo de software** y la **ciberseguridad**.  
 ⚙️ Me encanta aprender cosas nuevas, crear proyectos útiles y mejorar mis habilidades cada día.  
 
 ---
@@ -11,7 +11,7 @@
 - 🔹 Actualmente aprendiendo **Java**, **Kotlin (Android Studio)**, **SQL**, **HTML**, y **CSS**  
 - 🔹 Interesado en el **backend**, la **inteligencia artificial** y la **robótica**  
 - 🔹 Disfruto trabajando con **metodologías ágiles** como *Scrum*  
-- 🔹 Me gusta el entrenamiento, el baloncesto y las peliculas de terror.🎬🐶🏋️  
+- 🔹 Me gusta el entrenamiento, el baloncesto y las peliculas de terror.🏋️🎬🐶  
 
 ---
 
@@ -37,8 +37,8 @@
 
 ---
 
-⭐ *“El mejor modo de predecir el futuro es programarlo.”*  
-— Alan Kay
+⭐ *"La vida es un diez por ciento como la hacemos y un noventa por ciento como la tomamos"*  
+— Irving Berlín.
 
 
 <!--
