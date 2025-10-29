@@ -8,10 +8,10 @@
 
 ## 🧠 Sobre mí
 
-- 🔹 Actualmente aprendiendo **Java**, **Kotlin (Android Studio)**, **SQL**, **HTML**, y **CSS**  
-- 🔹 Interesado en el **backend**, la **inteligencia artificial** y la **robótica**  
-- 🔹 Disfruto trabajando con **metodologías ágiles** como *Scrum*  
-- 🔹 Me gusta el entrenamiento, el baloncesto y las peliculas de terror.🏋️🎬🐶  
+🔹 Actualmente aprendiendo **Java**, **Kotlin (Android Studio)**, **SQL**, **HTML**, y **CSS**  
+🔹 Interesado en el **backend**, la **inteligencia artificial** y la **robótica**  
+🔹 Disfruto trabajando con **metodologías ágiles** como *Scrum*  
+🔹 Me gusta el entrenamiento, el baloncesto y las peliculas de terror.🏋️🎬🐶  
 
 ---
 
