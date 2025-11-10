@@ -36,6 +36,10 @@
 💼 **LinkedIn:** [linkedin.com/in/guillermo](https://www.linkedin.com/in/guillermo-mart%C3%ADn-silgado-63aa67329/) 
 
 ---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+---
 
 🧘‍♀️ *"La vida es un diez por ciento como la hacemos y un noventa por ciento como la tomamos"*  
 — Irving Berlín.
