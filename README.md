@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 Sobre mí
+## Sobre mí
 
 🔹 Actualmente aprendiendo **Java**, **Kotlin (Android Studio)**, **SQL**, **HTML**, y **CSS**  
 🔹 Interesado en el **backend**, la **inteligencia artificial** y la **robótica**  
@@ -15,7 +15,7 @@
 
 ---
 
-## 💡 Tecnologías que utilizo
+## Tecnologías que utilizo
 
 <div align="center">
 
@@ -30,14 +30,14 @@
 
 ---
 
-## 🌐 Conecta conmigo
+## Conecta conmigo
 
-📧 **Email:** [guillemsilgadod@gmail.com](mailto:guilemsilgadod@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/guillermo](https://www.linkedin.com/in/guillermo-mart%C3%ADn-silgado-63aa67329/) 
+**Email:** [guillemsilgadod@gmail.com](mailto:guilemsilgadod@gmail.com)  
+**LinkedIn:** [linkedin.com/in/guillermo](https://www.linkedin.com/in/guillermo-mart%C3%ADn-silgado-63aa67329/) 
 
 ---
 
-🧘‍♀️ *"La vida es un diez por ciento como la hacemos y un noventa por ciento como la tomamos"*  
+*"La vida es un diez por ciento como la hacemos y un noventa por ciento como la tomamos"*  
 — Irving Berlín.
 
 
