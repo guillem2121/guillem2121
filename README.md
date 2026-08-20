@@ -1,57 +1,91 @@
-#  ¡Hola! Soy Guillermo 🦇
-
-🎓 **Estudiante de 2º de Desarrollo de Aplicaciones Multiplataforma (DAM)**  
-💻 Apasionado por la **tecnología**, el **desarrollo de software** y la **ciberseguridad**.  
-⚙️ Me encanta aprender cosas nuevas, crear proyectos útiles y mejorar mis habilidades cada día.  
-
----
-
-## Sobre mí
-
-🔹 Actualmente aprendiendo **Java**, **Kotlin (Android Studio)**, **SQL**, **HTML**, y **CSS**  
-🔹 Interesado en el **backend**, la **inteligencia artificial** y la **robótica**  
-🔹 Disfruto trabajando con **metodologías ágiles** como *Scrum*  
-🔹 Me gusta el entrenamiento, el baloncesto y las peliculas de terror.🏋️🎬🐶  
-
----
-
-## Tecnologías que utilizo
-
 <div align="center">
 
-| Lenguajes | Herramientas | Otros |
-|:----------:|:-------------:|:------:|
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
-| ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) | ![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white) | ![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logo=trello&logoColor=white) |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white) | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=databricks&logoColor=white) |
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e40af&height=180&section=header&text=Guillermo%20Mart%C3%ADn%20Silgado&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20Web%20Junior%20%7C%20.NET%20%2B%20Angular&descAlignY=58&descSize=16" width="100%"/>
+
+<a href="https://www.linkedin.com/in/guillermo-mart%C3%ADn-silgado-63aa67329/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:guillemsilgadod@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
+<br>
+
+## Sobre mí
+
+Desarrollador web junior especializado en el ecosistema **.NET** y **Angular**. Trabajo tanto en backend como en frontend, cubriendo desde el diseño de APIs hasta la interfaz de usuario final. Me interesa construir aplicaciones mantenibles, con buenas prácticas de arquitectura y un flujo de despliegue sólido apoyado en contenedores.
+
+- Backend con **.NET / C#** — APIs REST, Entity Framework, arquitecturas en capas
+- Frontend con **Angular** — componentes, RxJS, gestión de estado
+- Contenerización y despliegue con **Docker** y **Kubernetes**
+- Control de versiones con **Git** y flujos de trabajo colaborativos
+- Bases de datos relacionales (**SQL Server**, **PostgreSQL**)
+- Metodologías ágiles (**Scrum**)
+
+<br>
+
+## Stack técnico
+
+<div align="center">
+
+**Backend**
+
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+
+**Frontend**
+
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+**Infraestructura y DevOps**
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+
+**Bases de datos y herramientas**
+
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+
+</div>
+
+<br>
+
+## Estadísticas de GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=guillem2121&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guillem2121&layout=compact&theme=tokyonight&hide_border=true" width="30%" />
+
+<img src="https://streak-stats.demolab.com/?user=guillem2121&theme=tokyonight&hide_border=true" width="80%" />
+
+</div>
+
+> Sustituye `guillem2121` por tu usuario real de GitHub en cada URL para que las tarjetas se generen con tus datos.
+
+<br>
+
+## Actividad reciente
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=guillem2121&theme=tokyo-night&hide_border=true" width="90%" />
+</div>
+
+<br>
+
 ---
 
-## Conecta conmigo
-
-**Email:** [guillemsilgadod@gmail.com](mailto:guilemsilgadod@gmail.com)  
-**LinkedIn:** [linkedin.com/in/guillermo](https://www.linkedin.com/in/guillermo-mart%C3%ADn-silgado-63aa67329/) 
-
----
-
-*"La vida es un diez por ciento como la hacemos y un noventa por ciento como la tomamos"*  
-— Irving Berlín.
-
-
-<!--
-**guillem2121/guillem2121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<sub>Guillermo Martín Silgado — Desarrollador Web Junior (.NET · Angular · Docker · Kubernetes)</sub>
+</div>
