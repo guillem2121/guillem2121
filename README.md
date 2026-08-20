@@ -68,7 +68,7 @@ Desarrollador web junior especializado en el ecosistema **.NET** y **Angular**. 
 <img src="https://github-readme-stats.vercel.app/api?username=guillem2121&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guillem2121&layout=compact&theme=tokyonight&hide_border=true" width="30%" />
 
-<img src="https://streak-stats.demolab.com/?user=guillem2121&theme=tokyonight&hide_border=true" width="80%" />
+<img src="https://github-profile-trophy.vercel.app/?username=guillem2121&theme=tokyonight&no-frame=true&row=1&column=6" width="80%" />
 
 </div>
 
@@ -80,6 +80,10 @@ Desarrollador web junior especializado en el ecosistema **.NET** y **Angular**. 
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=guillem2121&theme=tokyo-night&hide_border=true" width="90%" />
+</div>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/guillem2121/guillem2121/output/github-contribution-grid-snake.svg" width="90%" />
 </div>
 
 <br>
