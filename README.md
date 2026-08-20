@@ -58,38 +58,3 @@ Desarrollador web junior especializado en el ecosistema **.NET** y **Angular**. 
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 
 </div>
-
-<br>
-
-## Estadísticas de GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=guillem2121&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guillem2121&layout=compact&theme=tokyonight&hide_border=true" width="30%" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=guillem2121&theme=tokyonight&no-frame=true&row=1&column=6" width="80%" />
-
-</div>
-
-> Sustituye `guillem2121` por tu usuario real de GitHub en cada URL para que las tarjetas se generen con tus datos.
-
-<br>
-
-## Actividad reciente
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=guillem2121&theme=tokyo-night&hide_border=true" width="90%" />
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/guillem2121/guillem2121/output/github-contribution-grid-snake.svg" width="90%" />
-</div>
-
-<br>
-
----
-
-<div align="center">
-<sub>Guillermo Martín Silgado — Desarrollador Web Junior (.NET · Angular · Docker · Kubernetes)</sub>
-</div>
